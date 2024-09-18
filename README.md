@@ -43,4 +43,4 @@ admin rights in an interactive desktop session to execute target code that is in
 executable as System in session 0 and to capture its output, without involving 
 Sysinternals PsExec.
 
-Sample outputs here.
+Sample outputs [here](https://github.com/AaronMargosis/GuiObjectUse/tree/master/Sample%20outputs).
