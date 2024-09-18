@@ -1,0 +1,25 @@
+Session	PID	Process name	PPID	Services	User SID	User name	USER objects	USER objects peak	GDI objects	GDI objects peak
+0	944	csrss.exe	928		S-1-5-18	NT AUTHORITY\SYSTEM	83	85	181	183
+0	1008	wininit.exe	928		S-1-5-18	NT AUTHORITY\SYSTEM	0	19	4	59
+0	1496	svchost.exe	1068	TermService 	S-1-5-20	NT AUTHORITY\NETWORK SERVICE	1	2	0	0
+0	1876	svchost.exe	1068	vmicrdv 	S-1-5-18	NT AUTHORITY\SYSTEM	14	14	7	8
+0	2180	svchost.exe	1068	UmRdpService 	S-1-5-18	NT AUTHORITY\SYSTEM	2	2	0	0
+0	2320	svchost.exe	1068	ProfSvc 	S-1-5-18	NT AUTHORITY\SYSTEM	0	1	0	0
+0	3040	svchost.exe	1068	AudioEndpointBuilder 	S-1-5-18	NT AUTHORITY\SYSTEM	0	1	0	0
+0	3256	svchost.exe	1068	Audiosrv 	S-1-5-19	NT AUTHORITY\LOCAL SERVICE	0	1	0	0
+0	3420	svchost.exe	1068	SessionEnv 	S-1-5-18	NT AUTHORITY\SYSTEM	4	4	1	2
+0	3504	svchost.exe	1068	TextInputManagementService 	S-1-5-18	NT AUTHORITY\SYSTEM	0	1	0	0
+0	4088	svchost.exe	1068	DiagTrack 	S-1-5-18	NT AUTHORITY\SYSTEM	0	2	0	0
+0	3008	svchost.exe	1068	WpnService 	S-1-5-18	NT AUTHORITY\SYSTEM	12	12	0	1
+0	4232	OfficeClickToRun.exe	1068	ClickToRunSvc 	S-1-5-18	NT AUTHORITY\SYSTEM	5	6	0	1
+0	1608	svchost.exe	1068	TokenBroker 	S-1-5-18	NT AUTHORITY\SYSTEM	0	1	0	0
+0	6876	MicrosoftEdgeUpdate.exe	2168		S-1-5-18	NT AUTHORITY\SYSTEM	1	1	0	1
+0	6216	SecurityHealthService.exe	1068	SecurityHealthService 	S-1-5-18	NT AUTHORITY\SYSTEM	2	2	0	0
+0	10356	svchost.exe	1068	BITS 	S-1-5-18	NT AUTHORITY\SYSTEM	2	3	0	0
+0	11292	FileSyncHelper.exe	1068	FileSyncHelper 	S-1-5-18	NT AUTHORITY\SYSTEM	1	1	0	0
+0	7768	WmiPrvSE.exe	1228		S-1-5-19	NT AUTHORITY\LOCAL SERVICE	4	4	7	9
+0	3348	MsMpEng.exe	1068	WinDefend 	S-1-5-18	NT AUTHORITY\SYSTEM	2	2	0	0
+0	8176	audiodg.exe	3256		S-1-5-19	NT AUTHORITY\LOCAL SERVICE	1	1	6	8
+0	3568	printfilterpipelinesvc.exe	1228		S-1-5-19	NT AUTHORITY\LOCAL SERVICE	2	3	0	0
+0	TOTAL	[enumerated processes]					136	168	206	272
+0	GR_GLOBAL	[Session-wide usage]					139	210	460	591
